@@ -18,8 +18,13 @@ func handler(w http.ResponseWriter, r *http.Request) {
  \    \         __/
   \____\_______/
 
-	
-Hello from Docker!
+
+Build simple, secure, scalable systems with Go
+
+An open-source programming language supported by Google
+Easy to learn and great for teams
+Built-in concurrency and a robust standard library
+Large ecosystem of partners, communities, and tools 
 
 `)
 }
