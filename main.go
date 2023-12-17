@@ -19,13 +19,9 @@ func handler(w http.ResponseWriter, r *http.Request) {
   \____\_______/
 
 
-Build simple, secure, scalable systems with Go
+What is the Go or Golang programming language?
 
-An open-source programming language supported by Google
-Easy to learn and great for teams
-Built-in concurrency and a robust standard library
-Large ecosystem of partners, communities, and tools 
-
+Go, also called Golang or Go language, is an Open Source programming language that Google developed. Software developers use Go in an array of operating systems and frameworks to develop web applications, cloud and networking services, and other types of software.
 `)
 }
 
